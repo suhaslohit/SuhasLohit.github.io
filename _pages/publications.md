@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Updated list, citations and bibtex can be found on my [Google Scholar](https://scholar.google.com/citations?user=GMRYY5cAAAAJ&hl=en) page
+
 1. __Suhas Lohit__, Qiao Wang and Pavan Turaga, "Temporal transformer networks: Joint learning of invariant and discriminative time warping", CVPR 2019
 
 2. __Suhas Lohit__, Dehong Liu, Hassan Mansour, Petros Boufounos, "Unrolled projected gradient descent for multispectral image fusion", ICASSP 2019
