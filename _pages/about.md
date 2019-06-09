@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in Electrical Engineering at Arizona State University. I work with [Prof. Pavan Turaga](https://pavanturaga.com/) in the Geometric Media Lab. 
 
-I solve research problems in computer vision and computational imaging. I have experience in applications like object recognition and detection, action recognition, and inverse problems like compressive sensing and multispectral image fusion. I design algorithms for these problems usually using deep learning and sometimes using fancier tools like Riemannian geometry([start here](https://infinityplusonemath.wordpress.com/2017/02/18/asteroids-on-a-donut/)).
+I solve research problems in computer vision and computational imaging. I have experience in high-level inference problems like object recognition and detection, action recognition, and inverse problems like compressive sensing and multispectral image fusion. I design algorithms for these applications usually using deep learning and sometimes using cooler tools like Riemannian geometry([start here](https://infinityplusonemath.wordpress.com/2017/02/18/asteroids-on-a-donut/)).
 
 I have spent wonderful summers at [MERL](http://www.merl.com/), [SRI International](https://www.sri.com/), [Nvidia](https://www.nvidia.com/) and [ISI](https://www.isical.ac.in/) 
 
