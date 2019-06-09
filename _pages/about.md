@@ -14,4 +14,4 @@ I solve research problems in computer vision and computational imaging. I have e
 
 I have spent wonderful summers at [MERL](http://www.merl.com/), [SRI International](https://www.sri.com/), [Nvidia](https://www.nvidia.com/) and [ISI](https://www.isical.ac.in/) 
 
-####### I also watch [movies](https://letterboxd.com/suhaslohit/) and read [books](https://www.goodreads.com/review/list/24730631)
+###### I also watch [movies](https://letterboxd.com/suhaslohit/) and read [books](https://www.goodreads.com/review/list/24730631)
