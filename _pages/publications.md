@@ -26,3 +26,11 @@ Updated list, citations and bibtex can be found on my [Google Scholar](https://s
 9. __Suhas Lohit__, Kuldeep Kulkarni, Pavan Turaga, Jian Wang and Aswin Sankaranarayanan, "Reconstruction-free Inference on Compressive Measurements", CVPRW 2015, **Best Paper Award**, [PDF](http://openaccess.thecvf.com/content_cvpr_workshops_2015/W10/papers/Lohit_Reconstruction-Free_Inference_on_2015_CVPR_paper.pdf)
 
 10. Qiao Wang, __Suhas Lohit__, Meynard Toledo, Matthew Buman and Pavan Turaga, "A statistical estimation framework for energy expenditure of physical activities from a wrist-worn accelerometer", EMBC 2016, [PDF](https://ieeexplore.ieee.org/document/7591270)
+
+# Preprints and working papers
+
+11. __Suhas Lohit__, Rajhans Singh, Kuldeep Kulkarni and Pavan Turaga, "Rate-Adaptive Neural Networks for Spatial Multiplexers", arXiv preprint arXiv:1809.02850, [PDF](https://arxiv.org/abs/1809.02850)
+
+12. __Suhas Lohit__, Rajhans Singh, Kuldeep Kulkarni and Pavan Turaga, "Rank-Regularized Measurement Operators for Compressive Imaging", under review in Asilomar 2019
+
+13. Kaushik Koneripalli, __Suhas Lohit__, Rushil Anirudh, Ankita Shukla and Pavan Turaga, "Structured Disentangling Networks for Learning Affine-Invariant Latent Spaces", under review in Asilomar 2019
