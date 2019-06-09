@@ -17,20 +17,25 @@ Education
 
 Work experience
 ======
-* Summer 2018: Research Intern
-  * Mitsubishi Electric Research Laboratories (MERL)
+* **Summer 2018: Research Intern**
+  * Mitsubishi Electric Research Laboratories (MERL), Cambridge, MA
   * Unrolled Projected Gradient Descent for Multispectral Image Fusion
   * Supervisors: Dr. Dehong Liu, Dr. Hassan Mansour and Dr. Petros Boufounos
 
-* Summer 2017: Student Associate
-  * Stanford Research Institute (SRI) International
+* **Summer 2017: Student Associate**
+  * Stanford Research Institute (SRI) International, Princeton, NJ
   * Multimodal fusion for user embeddings in social networks
   * Supervisors: Dr. Ajay Divakaran and Dr. Karan Sikka
   
-* Summer 2016: Video Analytics Intern
-  * Nvidia Corporation
+* **Summer 2016: Video Analytics Intern**
+  * Nvidia Corporation, Santa Clara, CA
   * Object detection and attribute recognition using deep learning for autonomous driving and surveillance
   * Supervisors: Dr. Farzin Aghdasi, Dr. Anil Ubale and Dr. Partha Sriram
+
+* **Summer 2012: Summer Research Fellow, Indian Academy of Sciences**
+  * Indian Statistical Institute, Kolkata, India
+  * Genetic algorithms for automated image enhancement
+  * Supervisor: Dr. Malay Kundu
   
 Skills
 ======
@@ -45,3 +50,10 @@ Talks
 Teaching
 ======
   Teaching assistant for Signals and Systems, and Computer Vision
+
+Awards
+======
+* $1000 ECEE Travel Grant for CVPR 2019
+* University Graduate Fellowship, ASU, 2015-2016
+* Best Paper Award, CVPRW: Computational Cameras and Displays, 2015
+* Summer Research Fellowship, Indian Academy of Sciences, 2012
