@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is my home on the web!
+I am a PhD candidate in Electrical Engineering at Arizona State University. I work with [Prof. Pavan Turaga](https://pavanturaga.com/) in the Geometric Media Lab. 
+
+My research interests are in computer vision and inverse problems in imaging using deep learning and Riemannian geometry.
