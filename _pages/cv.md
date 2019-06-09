@@ -11,49 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Electronics and Communication, SJCE, Mysore, India, 2013
+* M.S. in Computer Engineering, Arizona State University, 2015
+* Ph.D in Electrical Engineering, Arizona State University, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Intern
+  * Mitsubishi Electric Research Laboratories (MERL)
+  * Unrolled Projected Gradient Descent for Multispectral Image Fusion
+  * Supervisors: Dr. Dehong Liu, Dr. Hassan Mansour and Dr. Petros Boufounos
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Student Associate
+  * Stanford Research Institute (SRI) International
+  * Multimodal fusion for user embeddings in social networks
+  * Supervisors: Dr. Ajay Divakaran and Dr. Karan Sikka
+  
+* Summer 2016: Video Analytics Intern
+  * Nvidia Corporation
+  * Object detection and attribute recognition using deep learning for autonomous driving and surveillance
+  * Supervisors: Dr. Farzin Aghdasi, Dr. Anil Ubale and Dr. Partha Sriram
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Deep Learning: Tensorflow, PyTorch and Caffe
+* Programming: Python, C/C++ and Matlab
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* AMS Mathematical Society Sectional Meeting, Columbus, Ohio, 2018:
+* AME Digital Culture Series, ASU
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  Teaching assistant for Signals and Systems, and Computer Vision
