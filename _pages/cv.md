@@ -46,8 +46,8 @@ Skills
   
 Talks
 ======
-* AMS Mathematical Society Sectional Meeting, Columbus, Ohio, 2018:
-* AME Digital Culture Series, ASU
+* AMS Mathematical Society Sectional Meeting, Columbus, Ohio, 2018 on "Learning Invariant Riemannian Geometric Representations Using Deep Nets"
+* AME Digital Culture Speaker Series, ASU, November 2018 on "The Shape of Media"
   
 Teaching
 ======
@@ -55,7 +55,7 @@ Teaching
 
 Awards
 ======
-* $1000 ECEE Travel Grant for CVPR 2019
+* $1000 ASU ECEE Travel Grant to attend CVPR 2019
 * University Graduate Fellowship, ASU, 2015-2016
 * Best Paper Award, CVPRW: Computational Cameras and Displays, 2015
 * Summer Research Fellowship, Indian Academy of Sciences, 2012
