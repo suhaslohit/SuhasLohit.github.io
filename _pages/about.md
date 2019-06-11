@@ -20,3 +20,4 @@ I have spent wonderful summers at [MERL](http://www.merl.com/), [SRI](https://ww
 <br>
 
 ###### I also watch [movies](https://letterboxd.com/suhaslohit/) and read [books](https://www.goodreads.com/review/list/24730631)
+###### [Cool](https://kuldeepkulkarni.github.io/) [people](https://rushila.com/) [I](https://web.asu.edu/imaging-lyceum/home) [know](http://www.public.asu.edu/~asom2/)
