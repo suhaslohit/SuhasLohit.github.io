@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My resume as a PDF can be found [here](suhaslohit.github.io/files/Resume_Suhas_Lohit_06_19)
+
 Education
 ======
 * B.E. in Electronics and Communication, SJCE, Mysore, India, 2013
