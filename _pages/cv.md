@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My resume as a PDF can be found [here](https://suhaslohit.github.io/files/Resume_Suhas_Lohit_06_19)
+My resume as a PDF can be found [here](https://suhaslohit.github.io/files/Resume_Suhas_Lohit_06_19.pdf)
 
 Education
 ======
