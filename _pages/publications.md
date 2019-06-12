@@ -9,7 +9,7 @@ Updated list, citations and bibtex can be found on my [Google Scholar](https://s
 
 1. __Suhas Lohit__, Qiao Wang and Pavan Turaga, "Temporal transformer networks: Joint learning of invariant and discriminative time warping", CVPR 2019, [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lohit_Temporal_Transformer_Networks_Joint_Learning_of_Invariant_and_Discriminative_Time_CVPR_2019_paper.pdf), [Code](https://github.com/suhaslohit/TTN)
 
-2. __Suhas Lohit__, Dehong Liu, Hassan Mansour, Petros Boufounos, "Unrolled projected gradient descent for multispectral image fusion", ICASSP 2019, [PDF](https://www.merl.com/publications/docs/TR2019-010.pdf)
+2. __Suhas Lohit__, Dehong Liu, Hassan Mansour, Petros Boufounos, "Unrolled projected gradient descent for multispectral image fusion", ICASSP 2019, [PDF](https://www.merl.com/publications/docs/TR2019-010.pdf), [Poster]()
 
 3. __Suhas Lohit__, Kuldeep Kulkarni, Ronan Kerviche, Pavan Turaga and Amit Ashok, "Convolutional neural networks for non-iterative reconstruction of compressively sensed images", IEEE Transactions on Computational Imaging, 2018, [PDF](https://ieeexplore.ieee.org/document/8379450),  [Code](https://github.com/suhaslohit/Improved-ReconNet)
 
