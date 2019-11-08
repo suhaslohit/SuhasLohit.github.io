@@ -38,8 +38,7 @@ Updated list, citations and bibtex can be found on my [Google Scholar](https://s
 
 # Theses
 
-14. PhD Dissertation: Building Constraints, Geometric Invariants and Interpretability in Deep Learning: Applications in computational imaging and vision, [PDF]{https://suhaslohit.github.io/files/phd_dissertation.pdf}
+14. PhD Dissertation: Building Constraints, Geometric Invariants and Interpretability in Deep Learning: Applications in computational imaging and vision, [PDF](https://suhaslohit.github.io/files/phd_dissertation.pdf)
 
-15. Master's thesis: Reconstruction-Free Inference From Compressive Measurements, [PDF]{https://suhaslohit.github.io/files/masters_thesis.pdf}
-
+15. Master's thesis: Reconstruction-Free Inference From Compressive Measurements, [PDF](https://suhaslohit.github.io/files/masters_thesis.pdf)
 
