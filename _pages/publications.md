@@ -35,3 +35,11 @@ Updated list, citations and bibtex can be found on my [Google Scholar](https://s
 12. __Suhas Lohit__, Rajhans Singh, Kuldeep Kulkarni and Pavan Turaga, "Rate-Adaptive Neural Networks for Spatial Multiplexers", arXiv preprint arXiv:1809.02850, [PDF](https://arxiv.org/abs/1809.02850)
 
 13. Kaushik Koneripalli, __Suhas Lohit__, Rushil Anirudh and Pavan Turaga, "Rate-Invariant Autoencoding of Time-Series", under review in ICASSP 2019, [PDF](https://suhaslohit.github.io/files/ICASSP20.pdf)
+
+# Theses
+
+14. PhD Dissertation: Building Constraints, Geometric Invariants and Interpretability in Deep Learning: Applications in computational imaging and vision, [PDF]{https://suhaslohit.github.io/files/phd_dissertation.pdf}
+
+15. Master's thesis: Reconstruction-Free Inference From Compressive Measurements, [PDF]{https://suhaslohit.github.io/files/masters_thesis.pdf}
+
+
