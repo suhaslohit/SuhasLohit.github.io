@@ -20,4 +20,4 @@ Previously, I have spent wonderful summers at [MERL](http://www.merl.com/), [SRI
 <br>
 
 ###### I also watch [movies](https://letterboxd.com/suhaslohit/) and read [books](https://www.goodreads.com/review/list/24730631)
-###### [Cool](https://kuldeepkulkarni.github.io/) [people](https://rushila.com/) [I](https://web.asu.edu/imaging-lyceum/home) [know](http://www.public.asu.edu/~asom2/)
+###### [Some](https://kuldeepkulkarni.github.io/) [really](https://rushila.com/) [interesting](https://web.asu.edu/imaging-lyceum/home) [and](https://kowshikthopalli.github.io/) [cool](http://www.public.asu.edu/~asom2/) [people](https://gaurijagatap.github.io/) [I](http://ankan.umiacs.io/) [know](https://www.linkedin.com/in/sanjay-kariyappa-74583924/)
