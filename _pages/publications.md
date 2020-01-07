@@ -36,6 +36,8 @@ Updated list, citations and bibtex can be found on my [Google Scholar](https://s
 
 13. Kaushik Koneripalli, __Suhas Lohit__, Rushil Anirudh and Pavan Turaga, "Rate-Invariant Autoencoding of Time-Series", under review in ICASSP 2019, [PDF](https://suhaslohit.github.io/files/ICASSP20.pdf)
 
+14. __Suhas Lohit__, Rushil Anirudh and Pavan Turaga, "Reconstructing Dynamics of Unobserved Joints in 3D Human Actions Using Deep Generative Priors", under review, [PDF](https://suhaslohit.github.io/files/unseen_joints.pdf)
+
 # Theses
 
 14. PhD Dissertation: Building Constraints, Geometric Invariants and Interpretability in Deep Learning: Applications in computational imaging and vision, [PDF](https://suhaslohit.github.io/files/phd_dissertation.pdf)
