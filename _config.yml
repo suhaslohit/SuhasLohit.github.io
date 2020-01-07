@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Suhas Lohit"
 title_separator          : "-"
 name                     : &name "Suhas Lohit"
-description              : &description "PhD Candidate at Arizona State University"
+description              : &description "Visiting Research Scientist at MERL"
 url                      : https://SuhasLohit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "suhaslohit/SuhasLohit.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Suhas Lohit"
   avatar           : "mypicture.jpg"
-  bio              : "PhD Candidate at Arizona State University studying deep learning and computer vision"
+  bio              : "Visiting Research Scientist at MERL studying deep learning and computer vision"
   location         : "Tempe, AZ, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
