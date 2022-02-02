@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Research Scientist in the Computer Vision group at [MERL](http://www.merl.com). 
+I am a Research Scientist in the Computer Vision group at [MERL](http://www.merl.com/people/slohit). 
 
 I finished my PhD in Electrical Engineering at Arizona State University in 2019. My PhD advisor was [Prof. Pavan Turaga](https://pavanturaga.com/) in the [Geometric Media Lab](https://pavanturaga.com/geometric-media-lab/).
 
