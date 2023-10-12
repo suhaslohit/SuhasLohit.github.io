@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist in the Computer Vision group at [MERL](http://www.merl.com/people/slohit). 
+I am a Principal Research Scientist in the Computer Vision group at [MERL](http://www.merl.com/people/slohit). 
 
 I finished my PhD in Electrical Engineering at Arizona State University in 2019. My PhD advisor was [Prof. Pavan Turaga](https://pavanturaga.com/) in the [Geometric Media Lab](https://pavanturaga.com/geometric-media-lab/).
 
-My main research interests are in computer vision and computational imaging. I have experience in high-level inference problems like object recognition and detection, action recognition, and inverse problems like compressive sensing and multispectral image fusion. I design algorithms for these applications primarily using deep learning and sometimes using cooler tools like Riemannian geometry (thanks [Dr. Dilts](https://infinityplusonemath.wordpress.com/2017/02/18/asteroids-on-a-donut/)).
+My main research interests are in computer vision and computational imaging. I have experience in high-level inference problems like object recognition and detection, action recognition, and inverse problems like image restoration and multispectral image fusion. I design algorithms for these applications primarily using deep learning and sometimes using cooler tools like Riemannian geometry. 
+
+Recently I have been working on estimating vital signs (like heart rate) directly from videos, detecting objects in lidar scenes, and abstract visual+linguistic reasoning working towards data- and parameter-efficient general intelligence.
 
 Previously, I have spent wonderful summers at [MERL](http://www.merl.com/), [SRI International](https://www.sri.com/), [Nvidia](https://www.nvidia.com/) and [ISI](https://www.isical.ac.in/) 
 
