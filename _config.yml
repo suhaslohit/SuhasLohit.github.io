@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Suhas Lohit"
 title_separator          : "-"
 name                     : &name "Suhas Lohit"
-description              : &description "Visiting Research Scientist at MERL"
-url                      : https://SuhasLohit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Principal Research Scientist at MERL"
+url                      : https://suhasLohit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "suhaslohit/SuhasLohit.github.io"
+repository               : "suhaslohit/suhasLohit.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Suhas Lohit"
   avatar           : "mypicture.jpg"
-  bio              : "Visiting Research Scientist at MERL studying deep learning and computer vision"
+  bio              : "Principal Research Scientist at MERL working on deep learning and computer vision"
   location         : "Cambridge, MA, USA"
-  employer         :
+  employer         : https://merl.com/people/slohit
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com//citations?user=GMRYY5cAAAAJ&hl=en"
-  email            : slohit@asu.edu
+  email            : slohit@merl.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
